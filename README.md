@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 NAMES
 -lorenmay florentino
 - Mary Grace Villagonzalo
@@ -14,3 +16,4 @@ NAMES
 - keshier pialan
 - Francelyn Estorpe
 - Charie Mae Artiaga
+- Micha-Ella Cabrillos
