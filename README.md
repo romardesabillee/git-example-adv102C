@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 NAMES
 - lorenmay florentino
 - Mary Grace Villagonzalo
@@ -18,11 +17,5 @@ NAMES
 - Micha-Ella Cabrillos
 - Rea Dacay
 - Alwali Sangcopan
-<<<<<<< HEAD
 - Cy Tungal
-=======
-=======
-Names
--Troy Bacolbas
->>>>>>> 4622b0b (Added and updated)
->>>>>>> 765b786 (Added and updated)
+- Troy Bacolbas
