@@ -1,3 +1,4 @@
 NAMES
 -lorenmay florentino
-- Adrian Earl Abade
+- Mary Grace Villagonzalo
+- Askia Bernales
