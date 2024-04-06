@@ -4,7 +4,8 @@ NAMES
 - Robert John Aguio
 - Askia Bernales
 - Jayrico Dela Gente
-<<<<<<< HEAD
 - Adrian Earl Abade
 - Glenndely Pikitpikit
--Jaybe Solatorio
+- Jaybe Solatorio
+- FRANCIS RESURRECCION
+
