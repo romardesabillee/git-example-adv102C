@@ -6,4 +6,6 @@ NAMES
 - Jayrico Dela Gente
 - Adrian Earl Abade
 - Glenndely Pikitpikit
--Jaybe Solatorio
+- Jaybe Solatorio
+- FRANCIS RESURRECCION
+
