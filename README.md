@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 NAMES
 -lorenmay florentino
 - Mary Grace Villagonzalo
@@ -17,3 +15,4 @@ NAMES
 - Francelyn Estorpe
 - Charie Mae Artiaga
 - Micha-Ella Cabrillos
+- Rea Dacay
