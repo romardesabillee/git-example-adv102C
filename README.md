@@ -4,7 +4,7 @@ NAMES
 - Robert John Aguio
 - Askia Bernales
 - Jayrico Dela Gente
-<<<<<<< HEAD
+- Christian Paete
 - Adrian Earl Abade
 =======
 - Glenndely Pikitpikit
