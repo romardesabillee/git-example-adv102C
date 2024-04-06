@@ -10,10 +10,9 @@ NAMES
 - Glenndely Pikitpikit
 - Jaybe Solatorio
 - FRANCIS RESURRECCION
-- Micha-Ella Cabrillos
 - Christian Paete
 - Rahf Seno
 - Jeff Climaco
 - keshier pialan
 - Francelyn Estorpe
-
+- Micha-Ella Cabrillos
