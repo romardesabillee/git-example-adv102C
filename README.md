@@ -11,5 +11,5 @@ NAMES
 - Jaybe Solatorio
 - FRANCIS RESURRECCION
 - Micha-Ella Cabrillos
-
->>>>>>> c0e99d6dde9d358438be4fe49f17028b203ee1b0
+- Christian Paete
+- Rahf Seno
